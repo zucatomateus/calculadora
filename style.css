@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fundo {
+    background: radial-gradient(#53ade9, #3f3f3f);
+    height: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.calculadora {
+    border-radius: 10px;
+    padding: 5px;
+    position: absolute;
+    background-color: #3f3f3f;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
